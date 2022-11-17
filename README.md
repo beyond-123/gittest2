@@ -1,2 +1,2 @@
 # gittest2
-to learning how to use github
+to learn how to use github
